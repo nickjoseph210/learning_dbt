@@ -22,7 +22,7 @@ But for Data Scientists - Data Engineers, specifically - all that data needs to 
 
 Enter dbt.
 
-Short for 'data build tool,' it was conceived and continues to be developed by Fishtown Analytics, a software company out of Philadelphia, PA.  In a HUGE nutshell, dbt lets you clean data before putting it into your data warehouse.  Your data warehouse is where all your data users make their queries and ask questions about their business and their customers.  You don't want all that garbage going into your warehouse because, let's face it, "Main Street" to one credit card company is "Main St" to another.  And, God forbid, you ever get your hair done at "[Mane Street Haircutters] (http://manestreethaircutters.com/index.html)" in Williamsville, NY.  (That's a real place; linked for proof.) 
+Short for 'data build tool,' it was conceived and continues to be developed by Fishtown Analytics, a software company out of Philadelphia, PA.  In a HUGE nutshell, dbt lets you clean data before putting it into your data warehouse.  Your data warehouse is where all your data users make their queries and ask questions about their business and their customers.  You don't want all that garbage going into your warehouse because, let's face it, "Main Street" to one credit card company is "Main St" to another.  And, God forbid, you ever get your hair done at "[Mane Street Haircutters](http://manestreethaircutters.com/index.html)" in Williamsville, NY.  (That's a real place; linked for proof.) 
 
 
 
