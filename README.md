@@ -2,7 +2,7 @@
 
 "In a perfect world..." 
 
-Remember when you were a kid, landing face first at a construction site as the plywood of your impromptu ramp buckled under the combined weight of you and your bike?  How all of your friends would laugh at what's left of you and your Huffy, then you'd go home crying to Mom, and she'd just roll her eyes and put rubbing alcohol on your wounds?  You'd howl in agony, and she would say, 'In a perfect world, you'd have adjusted the ramp's theta and your initial velocity to account for the *combined* mass of you and your bike over the midpoint - which you should have reinforced for good measure?"
+Remember when you were a kid, landing face first at a construction site as the plywood of your impromptu ramp buckled under the weight of you and your bike?  How all of your friends would laugh at what's left of you and your Huffy, then you'd go home crying to Mom, and she'd just roll her eyes and put rubbing alcohol on your wounds?  You'd howl in agony, and she would say, 'In a perfect world, you'd have adjusted the ramp's theta and your initial velocity to account for the *combined* mass of you and your bike over the midpoint - which you should have reinforced for good measure?"
 
 And you'd look at her and think, "Yeah, well in a perfect world, boogers would be health food?"  
 
